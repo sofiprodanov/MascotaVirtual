@@ -3,10 +3,15 @@
 
 # 💡 Aca vas a poder:
 ■ ✏ Elegirle un nombre
+
 ■ 🥩 Alimentarla 
+
 ■ ⚽ Jugar con ella
+
 ■ 👀 Consultarle como se encuentra
+
 ■ 👻 Cuidala bien!, puede morir...
+
 
 # ✅ Caracteristicas:
 ■ 💻 Interfaz visual con arte ASCII
