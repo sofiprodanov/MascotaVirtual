@@ -1,5 +1,7 @@
 # MascotaVirtual 🐶
+
 ¡Bienvenido/a a tu Mascota Virtual!
+
 
 # 💡 Aca vas a poder:
 
