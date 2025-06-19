@@ -39,7 +39,8 @@ mascota_virtual/ ├── mascota_virtual.py # Archivo principal del juego ├�
 
 # 👁‍🗨 Mas informacion:
 
-El proyecto fue creado por el grupo 6, "Sexto Sentido", como practica en Python y diseño por consola para el Informatorio, etapa 2. Los integrantes son:
+El proyecto fue creado por el grupo 6, "Sexto Sentido", como practica en Python y diseño por consola para el Informatorio, etapa 2.
+Los integrantes son:
 
 • Alomo Gabriel
 
