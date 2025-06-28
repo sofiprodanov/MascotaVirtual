@@ -52,8 +52,6 @@ Los integrantes son:
 
 • Gnus Matias
 
-• Meza Maria Belen
-
 
 # 📄 Licencia
 
